@@ -11,5 +11,7 @@ public class CalculatorExecute {
         int subtraction = c.sub(2, 1);
         System.out.println("c.sub(2, 1) = " + subtraction);
 
+        System.out.println("== It's a test ==");
+        System.out.println("== End of Calculator Execute ==");
     }
 }
